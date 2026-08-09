@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="111" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+	<author>Nalathan</author>
+	<version>1.0.0.0</version>
+	<iconFilename>icon_FS25_VisibleFarmlandBuildings.dds</iconFilename>
+
+	<title>
+		<de>Höfe Auf Der Karte Sichtbar Machen</de>
+		<en>Reveal Farms On The Map</en>
+		<fr>Révéler Les Fermes Sur La Carte</fr>
+	</title>
+
+	<description>
+		<de><![CDATA[
+Auf vielen Karten siehst du Höfe mit Ställen, Gehegen und Weiden erst auf der Minikarte, nachdem du das dazugehörige Land gekauft hast. Diese Mod zeigt dir diese Höfe schon vorher auf der Karte an, damit du dir vor dem Kauf einen besseren Überblick verschaffen kannst, wo sich lohnende Höfe befinden.
+
+Der Kauf selbst, der Preis und alle Spielmechaniken bleiben komplett unverändert, es wird lediglich das Kartensymbol früher eingeblendet.
+
+GitHub: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+]]></de>
+		<en><![CDATA[
+On many maps, farms with stables, pens and pastures only appear on the minimap once you've bought the land they sit on. This mod shows these farms on the map right away, so you get a better overview of where the interesting farms are before deciding what to buy.
+
+The purchase itself, prices, and all other game mechanics stay completely untouched, only the map icon is shown earlier.
+
+GitHub: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+]]></en>
+		<fr><![CDATA[
+Sur de nombreuses cartes, les fermes avec étables, enclos et pâturages n'apparaissent sur la mini-carte qu'après l'achat du terrain correspondant. Ce mod affiche ces fermes sur la carte dès le début, pour te donner un meilleur aperçu des fermes intéressantes avant de décider quoi acheter.
+
+L'achat lui-même, les prix et toutes les autres mécaniques de jeu restent totalement inchangés, seule l'icône sur la carte est affichée plus tôt.
+
+GitHub : https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+]]></fr>
+	</description>
+
+	<multiplayer supported="true" />
+
+	<extraSourceFiles>
+		<sourceFile filename="scripts/VisibleFarmlandBuildings.lua" />
+	</extraSourceFiles>
+</modDesc>
