@@ -7,10 +7,11 @@ Reveal Farms On The Map is a Farming Simulator 25 mod that shows farm buildings 
 - Shows farm building map icons before purchasing the land
 - Purchase, price and all other game mechanics stay completely unchanged
 - Works in the background without an extra menu or player interaction
+- Optional game setting to turn the early icon display off, useful on maps with many small properties
 
 ## Current version
 
-1.0.0.0
+1.0.0.9
 
 ## Feedback
 

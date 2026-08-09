@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="111" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
 	<author>Nalathan</author>
-	<version>1.0.0.0</version>
+	<version>1.0.0.9</version>
 	<iconFilename>icon_FS25_VisibleFarmlandBuildings.dds</iconFilename>
 
 	<title>
@@ -17,6 +17,9 @@ Auf vielen Karten siehst du Höfe mit Ställen, Gehegen und Weiden erst auf der 
 Der Kauf selbst, der Preis und alle Spielmechaniken bleiben komplett unverändert, es wird lediglich das Kartensymbol früher eingeblendet.
 
 GitHub: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+
+Changelog 1.0.0.9:
+- Du kannst die Farmhaus-Symbole jetzt in den Einstellungen ausblenden, falls sie auf manchen Karten mit vielen kleinen Grundstücken zu unübersichtlich wirken. Ställe, Lager und Produktionsgebäude sind davon nicht betroffen.
 ]]></de>
 		<en><![CDATA[
 On many maps, farms with stables, pens and pastures only appear on the minimap once you've bought the land they sit on. This mod shows these farms on the map right away, so you get a better overview of where the interesting farms are before deciding what to buy.
@@ -24,6 +27,9 @@ On many maps, farms with stables, pens and pastures only appear on the minimap o
 The purchase itself, prices, and all other game mechanics stay completely untouched, only the map icon is shown earlier.
 
 GitHub: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+
+Changelog 1.0.0.9:
+- You can now turn off the farmhouse icons in the settings if they feel cluttered on maps with lots of small properties. Stables, storage and production buildings are not affected.
 ]]></en>
 		<fr><![CDATA[
 Sur de nombreuses cartes, les fermes avec étables, enclos et pâturages n'apparaissent sur la mini-carte qu'après l'achat du terrain correspondant. Ce mod affiche ces fermes sur la carte dès le début, pour te donner un meilleur aperçu des fermes intéressantes avant de décider quoi acheter.
@@ -31,6 +37,9 @@ Sur de nombreuses cartes, les fermes avec étables, enclos et pâturages n'appar
 L'achat lui-même, les prix et toutes les autres mécaniques de jeu restent totalement inchangés, seule l'icône sur la carte est affichée plus tôt.
 
 GitHub : https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
+
+Changelog 1.0.0.9 :
+- Tu peux désormais désactiver les icônes de maison de ferme dans les réglages si elles semblent surchargées sur certaines cartes avec beaucoup de petites parcelles. Les étables, le stockage et les bâtiments de production ne sont pas concernés.
 ]]></fr>
 	</description>
 
@@ -39,4 +48,32 @@ GitHub : https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
 	<extraSourceFiles>
 		<sourceFile filename="scripts/VisibleFarmlandBuildings.lua" />
 	</extraSourceFiles>
+
+	<l10n>
+		<text name="vfb_settings_header">
+			<de>Höfe Auf Der Karte Sichtbar Machen</de>
+			<en>Reveal Farms On The Map</en>
+			<fr>Révéler Les Fermes Sur La Carte</fr>
+		</text>
+		<text name="vfb_setting_enabled_title">
+			<de>Farmhaus-Symbole Vor Kauf</de>
+			<en>Farmhouse Icons Before Purchase</en>
+			<fr>Icônes De Maison De Ferme Avant L'achat</fr>
+		</text>
+		<text name="vfb_setting_enabled_desc">
+			<de>Zeigt das Farmhaus-Kartensymbol eines Hofs schon vor dem Kauf des Landes an. Andere Gebäude wie Ställe oder Lager werden immer angezeigt. Bei Karten mit sehr vielen kleinen Grundstücken lässt sich das hier abschalten, falls es unübersichtlich wirkt.</de>
+			<en>Shows a farm's farmhouse map icon before you buy the surrounding land. Other buildings like stables or storage are always shown. On maps with many small properties, this can be turned off if it feels cluttered.</en>
+			<fr>Affiche l'icône de la maison de ferme sur la carte avant l'achat du terrain. Les autres bâtiments comme les étables ou le stockage sont toujours affichés. Sur les cartes avec beaucoup de petites parcelles, ce réglage permet de le désactiver si cela semble surchargé.</fr>
+		</text>
+		<text name="vfb_setting_enabled_on">
+			<de>An</de>
+			<en>On</en>
+			<fr>Activé</fr>
+		</text>
+		<text name="vfb_setting_enabled_off">
+			<de>Aus</de>
+			<en>Off</en>
+			<fr>Désactivé</fr>
+		</text>
+	</l10n>
 </modDesc>
