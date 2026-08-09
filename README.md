@@ -28,16 +28,16 @@ Please include:
 
 Always up to date on Forbidden Mods:
 
-FORBIDDEN_MODS_LINK_HERE
+https://forbidden-mods.de/filebase/file/78989-versteckte-ställe-höfe-sichtbar-machen/
 
 Official download on ModHub:
 
-MODHUB_LINK_HERE
+https://www.farming-simulator.com/mod.php?mod_id=370068&title=fs2025
 
 ## Links
 
 - Website: https://www.nalathan.de/
 - YouTube: https://www.youtube.com/@nalathangaming
-- Forbidden Mods: FORBIDDEN_MODS_LINK_HERE
-- ModHub: MODHUB_LINK_HERE
+- Forbidden Mods: https://forbidden-mods.de/filebase/file/78989-versteckte-ställe-höfe-sichtbar-machen/
+- ModHub: https://www.farming-simulator.com/mod.php?mod_id=370068&title=fs2025
 - Issues: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
