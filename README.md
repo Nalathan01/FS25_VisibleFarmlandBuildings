@@ -1,44 +1,22 @@
 # Reveal Farms On The Map
 
-Reveal Farms On The Map is a Farming Simulator 25 mod that shows farm buildings (stables, pens, pastures) on the map before you buy the land they sit on, so you get a better overview of where the interesting farms are.
+Ever bought a plot only to find out afterward there's no farm on it? This shows stables, pens and pastures on the map before you own the land, so you can scout out where the interesting farms actually are first.
 
-## Features
+## What it does
 
-- Shows farm building map icons before purchasing the land
-- Purchase, price and all other game mechanics stay completely unchanged
-- Works in the background without an extra menu or player interaction
-- Optional game setting to turn the early icon display off, useful on maps with many small properties
-
-## Current version
-
-1.0.0.9
+- Shows farm building icons on the map before the surrounding land is purchased
+- Doesn't touch prices, purchase mechanics or anything else, purely visual
+- Runs in the background, no menu or interaction needed
+- Optional setting to turn the early icon display off, handy on maps with a lot of small properties
 
 ## Feedback
 
-Bug reports, compatibility feedback and feature requests are welcome through GitHub Issues.
-
-Please include:
-
-- Mod version
-- Game version
-- Map name
-- A short description of what happened
-- log.txt if the issue is technical
-
-## Download
-
-Always up to date on Forbidden Mods:
-
-https://forbidden-mods.de/filebase/file/78989-versteckte-ställe-höfe-sichtbar-machen/
-
-Official download on ModHub:
-
-https://www.farming-simulator.com/mod.php?mod_id=370068&title=fs2025
+Icons missing or showing up somewhere they shouldn't? Open a GitHub issue with your mod/game version, the map, and what happened. `log.txt` helps if it looks like a script error.
 
 ## Links
 
-- Website: https://www.nalathan.de/
-- YouTube: https://www.youtube.com/@nalathangaming
 - Forbidden Mods: https://forbidden-mods.de/filebase/file/78989-versteckte-ställe-höfe-sichtbar-machen/
 - ModHub: https://www.farming-simulator.com/mod.php?mod_id=370068&title=fs2025
+- Website: https://www.nalathan.de/
+- YouTube: https://www.youtube.com/@nalathangaming
 - Issues: https://github.com/Nalathan01/FS25_VisibleFarmlandBuildings/issues
